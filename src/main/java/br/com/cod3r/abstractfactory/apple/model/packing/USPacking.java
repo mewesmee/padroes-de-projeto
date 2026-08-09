@@ -1,0 +1,8 @@
+package main.java.br.com.cod3r.abstractfactory.apple.model.packing;
+
+public class USPacking {
+
+	public String pack() {
+		return "\t- Packing in English";
+	}
+}
